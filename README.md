@@ -138,9 +138,9 @@ Notes:
 ## Screenshots
 Place your screenshots in a `screenshots/` directory at the repository root and reference them like this in the README:
 
-![Home Page](screenshots/home.png)
-![Create Listing](screenshots/create-listing.png)
-![Listing Details](screenshots/listing-details.png)
+![Home Page](https://github.com/Aditya-Sureka/Airbnb-Project/blob/main/Screenshot%202024-08-10%20120924.png)
+![Create Listing](https://github.com/Aditya-Sureka/Airbnb-Project/blob/main/Screenshot%202024-08-10%20121141.png)
+![Listing Details](https://github.com/Aditya-Sureka/Airbnb-Project/blob/main/Screenshot%202024-08-10%20121403.png)
 
 Suggested captions/alt-text for the images you supplied:
 - home.png — "Listings grid with pool villas and search header."
